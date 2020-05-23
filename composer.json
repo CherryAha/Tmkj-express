@@ -18,12 +18,12 @@
     }
     ,"autoload": {
         "psr-4": {
-            "ZJTmkj\\": "src/"
+            "zjtmkj\\": "src/"
         }
     }
     ,"autoload-dev": {
         "psr-4": {
-            "ZJTmkj\\": "src/"
+            "zjtmkj\\": "src/"
         }
     }
 }
