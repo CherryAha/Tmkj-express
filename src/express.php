@@ -1,5 +1,5 @@
 <?php  
-namespace ZJTmkj; 
+namespace zjtmkj; 
 include "KdApiSearchDemo.php";
 class express
 { 
